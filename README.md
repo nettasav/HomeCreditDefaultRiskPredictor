@@ -1,4 +1,4 @@
-# HomeCreditDefaultRiskPredictor
+# Home Credit Default Risk Predictor
 
 Based on data from the [Home Credit Default Risk data source on Kaggle](https://www.kaggle.com/competitions/home-credit-default-risk)
 
